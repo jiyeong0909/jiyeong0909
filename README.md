@@ -1,15 +1,14 @@
-### <div align="center">안녕하세요. 저는 서지영입니다!!!! </div>  
-  
+### <div align="center">안녕하세요. 저는 프론트엔드 개발자로서의 삶을 살기 위해 공부하고 있는 서지영입니다!!! 😊 </div> 
 
-- 🔭 제 깃헙 주소는https://https://github.com/jiyeong0909/jiyeong0909  
-  
+- 💖 Front-end 개발
+- 🧡 Github 주소 : https://https://github.com/jiyeong0909/jiyeong0909
+- 💛 사무 기초 자격증 : 컴활 2급, 워드프로세서 / IT 관련 자격증 : 예정 
+- 💚 명지대학교 심리치료학과 재학
+- 💙 긍정적이고 밝은 에너지 보유
+- 💜 별명 : 성실이, 하고잡이
+- 🖤 취미 : 영화 감상, 운동(런닝, 헬스, 스쿼시)
 
-- 🌱 I’m currently learning Hyperledger and Kubernetes  
-  
-
-- ❓ Ask me about anything related to MERN stack and related technologies  
-  
-
+- ❓ Ask me about anything related to MERN stack and related technologies   
 - ⚡ Fun fact: I use tabs over spaces  
   
 
