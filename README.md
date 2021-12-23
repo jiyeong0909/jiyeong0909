@@ -1,4 +1,4 @@
-### <div align="center" color="blueviolet"> '七顚八起(칠전팔기)' 오뚜기 같은 개발자, 서지영입니다.😊 </div> 
+### <div align="center" color="violet"> '七顚八起(칠전팔기)' 오뚜기 같은 개발자, 서지영입니다.😊 </div> 
 
 <br/> 
 
